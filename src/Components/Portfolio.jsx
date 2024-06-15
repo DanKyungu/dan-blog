@@ -39,7 +39,7 @@ const projectList = [
   {
     title: "NTwainScanProject",
     description:
-      "Scanner project using NTwain library in C# - WPF NTWain library allow you to interact with your digital devices, and this is .NET Demo application that use this library.",
+      "Scanner project using NTwain library in C# - WPF NTWain library allows you to interact with your digital devices, and this is .NET Demo application that use this library.",
     url: "https://github.com/DanKyungu/NTwainScanProject",
   }
 ];
